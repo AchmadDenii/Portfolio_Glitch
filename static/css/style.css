@@ -1,0 +1,45 @@
+.home {
+  position: relative;
+  margin: 0%;
+  background-color: #97d5fc;
+}
+.home > .About {
+  margin: 0%;
+  padding: 200px 100px 200px;
+  background-color: #97d5fc;
+  color: white;
+  padding-bottom: 0%;
+}
+
+.home > .About > .btn {
+  margin-bottom: 30px;
+}
+
+.about {
+  margin-top: 30px;
+  text-align: center;
+  color: black;
+  margin-bottom: 30px;
+}
+
+.about > .container {
+  background-color: white;
+  color: black;
+}
+.about > .container > .col{
+  text-align: center;
+}
+
+.Projects {
+  margin-top: 50px;
+ margin-bottom: 50px;
+}
+
+.CP {
+text-align: center;
+}
+
+.footer {
+  text-align: center;
+  background-color: #97d5fc;
+}
